@@ -1,10 +1,13 @@
 # 🧑‍🎓 Soham Dave 
 
 **` CSE Undergrad | DSA | Front-End | Python `**
-<img align="right" alt="Bravo Six Going Dark" width="400" src="https://media.tenor.com/l_qdFqmW3NMAAAAC/bravo-six-video-game.gif">
+
+<img align="right" alt="Bravo Six Going Dark" src="https://steamuserimages-a.akamaihd.net/ugc/785228829894371874/474634ED1AD5899821DC87BD83E44D3419920847/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+
 I'm a 3rd year CS Engineering Student, and Developer building and designing Web, with my unique and creative yet technical perspective. The inclination towards Tech is what I have since my childhood. So Yes, I'm here! showcasing my skills and connecting with new peers. My coding journey has too many ups and downs, but that's how the life is. no? Sorry, the philosophical side of mine just uncovers every here and there. This is not the place, Soham! Stop it! 
 
 `Hey!! Not you! Have a look on my profile first...`
+
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
