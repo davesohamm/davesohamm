@@ -2,7 +2,7 @@
 
 **` CSE Undergrad | DSA | Front-End | Python `**
 
-I'm a 3rd year CS Engineering Student, and Developer building and designing Web, with my unique and creative yet technical perspective. The inclination towards Tech is what I have since my childhood. So Yes, I'm here! showcasing my skills and connecting with new peers. My coding journey has too many ups and downs, but that's what the life is. no? Sorry, I start becoming Philosophical literally anywhere! This is not the place, Soham! Stop it! 
+I'm a 3rd year CS Engineering Student, and Developer building and designing Web, with my unique and creative yet technical perspective. The inclination towards Tech is what I have since my childhood. So Yes, I'm here! showcasing my skills and connecting with new peers. My coding journey has too many ups and downs, but that's how the life is. no? Sorry, I start becoming Philosophical literally anywhere! This is not the place, Soham! Stop it! 
 Hey!! Not you! Have a look on my profile first...
 
  <h3 align="left">Connect with me:</h3>
