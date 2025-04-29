@@ -15,6 +15,7 @@ Constantly learning, evolving, and striving for simplicity in both development a
 <a href="https://kaggle.com/davesohamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
 <a href="https://medium.com/@davesohamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/davesohamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@davesohamm" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="YouTube" height="30" width="40" /></a>
 </p>  
 
 ---
