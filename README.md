@@ -1,9 +1,7 @@
 # 🧑‍💻 Soham Dave  
 
-**`CS Undergrad | Frontend Developer | Python Enthusiast`**  
+**`Python | Machine Learning | Data Science | Artifical Intelligence`**  
 
-Passionate about building **efficient** and **user-friendly** web experiences.  
-I enjoy working with **modern front-end technologies** and solving problems through **clean code and design**.  
 Constantly learning, evolving, and striving for simplicity in both development and life.  
 
 ---
